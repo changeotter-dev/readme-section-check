@@ -1,0 +1,8 @@
+{
+  "required": [
+    "install",
+    "usage",
+    "license"
+  ],
+  "text": "# Tool\n## Install\n## Usage\n"
+}
